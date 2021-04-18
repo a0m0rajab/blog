@@ -1,0 +1,18 @@
+[en]
+title = "Abdurrahman Rajab"
+description = "Software engineer, Programmer, Developer!"
+contentDir = "content/english"
+author = "Abdurrahman Rajab"
+#copyright = "2020-2021"
+LanguageName = "EN"
+weight = 1
+
+
+[ar]
+title = "عبدالرحمن رجب"
+description = "مهندس حاسب, مبرمج, مطور برمجيات!"
+contentDir = "content/arabic" 
+author = "عبد الرحمن رجب"
+LanguageDirection = "rtl" 
+LanguageName = "AR"
+weight = 2
