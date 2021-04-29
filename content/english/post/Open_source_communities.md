@@ -1,3 +1,20 @@
++++
+author = "Abdurrahman Rajab"
+title = "Empowering open source communities"
+date = "2021-04-29"
+description = "How communities could adapt open source culture!"
+tags = [
+    "Open Source",
+    "Communities",
+    "Universities",
+]
+categories = [
+    "Open source",
+    "Communities",
+    "GitHub"
+]
++++
+
 # Empowering open source communities in higher education: a case study. 
 
 In this article, I will discuss the idea of empowering and getting more people engaged in the open-source communities based on my experience for four years as a Computer engineering student in Turkey. The primary reason to write is to inspire more people to work in the open-source and spotlight some key points to create healthy-easy access and open source community atmosphere inside universities.
