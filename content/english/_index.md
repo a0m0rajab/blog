@@ -23,4 +23,7 @@ Don't forget to check the README.md file!
 
 -->
 # Abdurrahman Rajab personal website! 
-## Stay tuned for the next aricles, posts and blogs! 
+
+At this website you can find articles about: communities, AI and some ideas and blogs related to my work and my experience. I hope you to enjoy reading them, feel free to open a PR if you find any misspelling in them. 
+
+Stay tuned for the next aricles, posts and blogs! 
