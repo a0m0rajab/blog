@@ -16,3 +16,12 @@ author = "عبد الرحمن رجب"
 LanguageDirection = "rtl" 
 LanguageName = "AR"
 weight = 2
+
+[tr]
+title = "Abdurrahman Rajab"
+description = "Yazılımcı ve bilgisayar mühendisi."
+contentDir = "content/Turkish" 
+author = "Abdurrahman Rajab"
+LanguageDirection = "ltr" 
+LanguageName = "TR"
+weight = 3

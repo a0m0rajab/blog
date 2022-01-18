@@ -1,0 +1,23 @@
+  [[main]]
+  name = "Anasayfa"
+  identifier = "home"
+  weight = 100  
+  url = "/tr"
+
+  # [[main]]
+  # name = "Bloglar"
+  # weight = 200
+  # identifier = "posts"
+  # url = "/tr/post"
+
+  [[main]]
+  name = "hakkımda"
+  weight = 300
+  identifier = "about"
+  url = "/tr/about"
+
+  # [[main]]
+  # name = "iletişim"
+  # weight = 400
+  # identifier = "contact"
+  # url = "/tr/contact"
