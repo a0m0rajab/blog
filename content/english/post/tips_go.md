@@ -18,7 +18,7 @@ categories = [
 
 Those tips could be generally used for any programming language, yet in this article I am providing the links to Go Documentations. 
 
-In the last couple of weeks I was trying to learn, the documentation itself is awesome yet knowing from where to start was a bit confusing for me! The reason is that I felt comfortable with programming and decided to take the docs and tutorials as they were, which of course let me skip the main part of **LEARNING THE SYNTAX. **
+In the last couple of weeks I was trying to learn, the documentation itself is awesome yet knowing from where to start was a bit confusing for me! The reason is that I felt comfortable with programming and decided to take the docs and tutorials as they were, which of course let me skip the main part of **LEARNING THE SYNTAX.**
 
 Here are the tips that I suggest learning to go with links from the documentations to follow and practice. 
 
