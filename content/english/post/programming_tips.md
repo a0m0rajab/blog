@@ -61,3 +61,6 @@ Learning the theory behind programs or even languages is always advice yet witho
 Learning itself take time and effort, that’s why you need to be always patient and consistent of your work, you can be aware of the [forgetting curve ](https://en.wikipedia.org/wiki/Forgetting_curve)to have the best for you and your case, but never give up and be sure that there is always people around you who would help you at this journey and take your hand. 
 
 At the end, learning a new programming language or framework is a tough goal and you need to be aware of that from the beginning, try to be patient and pick the best that suits you and everything will be great from that on. Happy Hacking 
+
+
+Sidenote: this article wrote as answert to the question: what's the differnce between self-learning and bootcamps or university? Why it's easy to learn there, why it was easy for me to learn new frameworks (in javascript) fastly! 
