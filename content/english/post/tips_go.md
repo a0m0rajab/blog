@@ -13,6 +13,7 @@ categories = [
     "Go",
     "Programming",
 ]
+aliases = ["go_tips"]
 +++
 
 
