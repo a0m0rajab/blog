@@ -24,3 +24,7 @@ In the news:
 * [Nok6a: Open source and Education, a Special interview with Abdurrahman Rajab (Arabic)](https://www.nok6a.net/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA-%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1%D8%8C-%D8%AD/)
 * [Covering an open source contributor from MENA region (Arabic)(TV)](https://www.youtube.com/watch?v=9iJD6rzYE7g)
 * [GitHub Blog: Hadith tech](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/)
+* [TV:The Future of technology and Metaverse and AI(Arabic)](https://www.youtube.com/watch?v=z8IT-YYF47c)
+* [TV: The future of AI after ChatGPT (Arabic)](https://www.youtube.com/watch?v=Vs_zcwQemWI)
+* [TV: Cybersecurity and stalking in AI world(Arabic)](https://youtu.be/YDcm2wZOEs4?t=1417)
+* [TV: The futrue of our world with AR/VR and AI technologies (Arabic)](https://youtu.be/JeJ59d41J3g?t=3177)
