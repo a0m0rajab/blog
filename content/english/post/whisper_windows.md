@@ -1,7 +1,7 @@
 +++
 author = "Abdurrahman Rajab"
 title = "Whisper on windows command line"
-date = "2023-01-1"
+date = "2023-01-01"
 description = "A short guide on how to use whisper on windows!"
 tags = [
     "Open Source",
